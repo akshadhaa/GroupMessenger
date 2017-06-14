@@ -1,0 +1,7 @@
+/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/classes/debug
+/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-fb8e5b8dc3f7c5b6adb7600b93839c169674bb1b.jar
+/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/classes-0cf0541a796c50eb7aaa6a30408da6622d8ddf89.jar
+/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/classes-ae8bbe17388547a2093e7383ae35494919680c2c.jar
+/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-ed8a362b12933776acafdda72115b463da8086f5.jar
+/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/classes-7b5b2b3bf9bc372b808c1c558ed0f93ce6237624.jar
+/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/classes-2349fed31e8b7da329e65bfabf76bb8859590642.jar

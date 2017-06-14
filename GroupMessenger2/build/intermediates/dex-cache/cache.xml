@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/classes-0cf0541a796c50eb7aaa6a30408da6622d8ddf89.jar" />
+    </item>
+    <item
+        jar="/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/classes-ae8bbe17388547a2093e7383ae35494919680c2c.jar" />
+    </item>
+    <item
+        jar="/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-ed8a362b12933776acafdda72115b463da8086f5.jar" />
+    </item>
+    <item
+        jar="/Users/akshadha/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-fb8e5b8dc3f7c5b6adb7600b93839c169674bb1b.jar" />
+    </item>
+    <item
+        jar="/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/classes-7b5b2b3bf9bc372b808c1c558ed0f93ce6237624.jar" />
+    </item>
+    <item
+        jar="/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/akshadha/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/pre-dexed/debug/classes-2349fed31e8b7da329e65bfabf76bb8859590642.jar" />
+    </item>
+
+</items>
